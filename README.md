@@ -77,7 +77,7 @@
 
 <div align="center">
 
-<img src="wallpaperflare.com_wallpaper(2).jpg" />
+<img src="eat_sleep_code_repeat.jpg" />
 
 </div>
 
