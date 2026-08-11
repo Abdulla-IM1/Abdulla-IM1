@@ -73,8 +73,6 @@
 ---
 
 
-## 🔥 نشاط GitHub
-
 <div align="center">
 
 <img src="eat_sleep_code_repeat.jpg" />
