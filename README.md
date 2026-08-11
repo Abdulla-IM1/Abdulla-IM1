@@ -75,7 +75,7 @@
 
 <div align="center">
 
-<img src="eat_sleep_code_repeat.jpg" />
+<img src="eat_sleep_code_repeat.jpg" alt="eat_sleep_code_repeat" width="70%"/>
 
 </div>
 
