@@ -88,7 +88,6 @@
 التخصص             → Frontend Development
 اللغات               → HTML • CSS • JavaScript • Python 
 إدارة المشاريع          → Git • GitHub
-الهدف               → بناء مشاريع ويب أفضل وأكثر تطوراً
 ```
 
 ---
