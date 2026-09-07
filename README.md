@@ -69,17 +69,7 @@
 | 🐍 مشاريع Python    | مشاريع وتطبيقات صغيرة للتدرب على Python | Python                  |
 
 > 🚀 سيتم إضافة المزيد من المشاريع مع استمرار رحلة التعلم والتطوير.
-
----
-
-
-<div align="center">
-
-<img src="eat_sleep_code_repeat.jpg" alt="eat_sleep_code_repeat" width="70%"/>
-
-</div>
-
----
+> 
 
 ## 🎯 أركز حالياً على
 
@@ -91,11 +81,3 @@
 ```
 
 ---
-
-<div align="center">
-
-### ⚡ أتعلم • أبرمج • أبني • أطور  
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="35%" alt="Developer"/>
-
-</div>
