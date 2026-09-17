@@ -1,79 +1,15 @@
-# 👋 مرحباً، أنا AbdullaIM1
- 
-### 💻 مطور ويب متخصص في Frontend
+# 💫 About Me:
+💻 مطور ويب متخصص في Frontend 🌐 HTML • CSS • JavaScript 🐍 Python 🚀 أبني واجهات ويب حديثة وتفاعلية
 
-أبني واجهات ويب **حديثة، متجاوبة وتفاعلية**، وأستمتع بتحويل الأفكار إلى مواقع وتجارب ويب جميلة وعملية.
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdullaim\&style=flat\&color=orange\&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 👨‍💻 عني
-
-* 💻 مطور ويب متخصص في **Frontend Development**
-* 🌐 أعمل على بناء واجهات ويب حديثة ومتجاوبة و تفاعلية
-* 🐍 أتعلم وأطوّر مهاراتي في **Python**
-* ⚡ مهتم بتطوير واجهات تفاعلية وسهلة الاستخدام
-* 🧠 أتعلم باستمرار وأعمل على تطوير مهاراتي البرمجية
-* 🛠️ أستخدم **Git وGitHub** لإدارة مشاريعي ومشاركتها
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Abdulla-IM1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Abdulla-IM1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdulla-IM1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Abdulla-IM1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ التقنيات والأدوات
-
-### 🌐 تطوير الواجهات
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-
-### 🐍 البرمجة
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-
-### 🔧 الأدوات
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Command Line](https://img.shields.io/badge/Command%20Line-000000?style=flat\&logo=windowsterminal\&logoColor=white)
-
----
-
-## 💻 التقنيات التي أستخدمها
-
-```text
-تطوير الواجهات    → HTML • CSS • JavaScript
-البرمجة            → Python
-إدارة المشاريع     → Git • GitHub
-الأدوات             → Command Line
-```
-
----
-
-## 📂 مشاريعي
-
-أعمل على مجموعة من المشاريع التي تساعدني على تطوير مهاراتي في **تطوير الواجهات الأمامية** والبرمجة.
-
-| المشروع             | الوصف                                   | التقنيات                |
-| ------------------- | --------------------------------------- | ----------------------- |
-| 🌐 Portfolio        | موقعي الشخصي لعرض مهاراتي ومشاريعي      | HTML • CSS • JavaScript |
-| 🖥️ مشاريع Frontend | مجموعة من مشاريع واجهات الويب           | HTML • CSS • JavaScript |
-| 🐍 مشاريع Python    | مشاريع وتطبيقات صغيرة للتدرب على Python | Python                  |
-
-> 🚀 سيتم إضافة المزيد من المشاريع مع استمرار رحلة التعلم والتطوير.
-> 
-
-## 🎯 أركز حالياً على
-
-```text
-التعلم                → Web Development
-التخصص             → Frontend Development
-اللغات               → HTML • CSS • JavaScript • Python 
-إدارة المشاريع          → Git • GitHub
-```
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
